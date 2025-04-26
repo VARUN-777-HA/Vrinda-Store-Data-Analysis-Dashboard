@@ -14,4 +14,4 @@ The vrinda store wants to create an annual sales report for 2022. So that ,the o
 - Which channel is contributing maximum sales?
 - Highest swelling category?
 
--Dasboard Interaction <a herf ="https://github.com/VARUN-777-HA/Vrinda-Store-Data-Analysis-Dashboard/blob/main/image.jpg">view Dashboard</a>
+-Dasboard Interaction <a href ="https://github.com/VARUN-777-HA/Vrinda-Store-Data-Analysis-Dashboard/blob/main/image.jpg">view Dashboard</a>
