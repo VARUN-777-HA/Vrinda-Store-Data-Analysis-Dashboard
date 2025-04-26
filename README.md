@@ -35,10 +35,10 @@ The vrinda store wants to create an annual sales report for 2022. So that ,the o
 
 ## Project Insight:
 
--Women customers are more likley to buy products campared to men.
--The states of karnataka,hydrabad,new delhi are top 3 product buyers.
--The maximum number of products customer orders from Amazon,Flipkart and Myntra channels.
--More than 90% of the products delivered.
+- Women customers are more likley to buy products campared to men.
+- The states of karnataka,hydrabad,new delhi are top 3 product buyers.
+- The maximum number of products customer orders from Amazon,Flipkart and Myntra channels.
+- More than 90% of the products delivered.
 
 ## Final Conclusion:
 
