@@ -42,6 +42,7 @@ The vrinda store wants to create an annual sales report for 2022. So that ,the o
 
 ## Final Conclusion
 
+To improve the sales of vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in karnataka,delhi should be implimented. This demographic represents a key consumer segment , as they often make significate household and lifestyle purchases.The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
 
 
