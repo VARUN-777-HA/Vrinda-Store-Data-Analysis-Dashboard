@@ -12,7 +12,7 @@ The vrinda store wants to create an annual sales report for 2022. So that ,the o
 - List top 10 countribution to sales?
 - Relation between age and gender based on number of orders?
 - Which channel is contributing maximum sales?
-- Highest swelling category?
+- Highest selling category?
 
 -Dasboard Interaction <a href ="https://github.com/VARUN-777-HA/Vrinda-Store-Data-Analysis-Dashboard/blob/main/image.jpg">view Dashboard</a>
 
